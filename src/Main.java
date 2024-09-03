@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
-        System.out.println("Bir sayi gir ve tavsiye al:");
+        System.out.println("write number and take ur advice:");
 
         int value= input.nextInt(); // Kullanıcıdan bir üst sınır değeri al
         switch (value){
